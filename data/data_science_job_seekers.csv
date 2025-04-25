@@ -1,0 +1,51 @@
+degree_field,degree_level,has_certificates,has_internship,has_freelance_or_parttime,career_gap_years,job_search_hours_per_week,specialization_track,job_acquisition_channel,job_portal,country_of_residence,region_of_residence,job_location_country,region_of_job,job_type,got_job,job_landing_time_months
+Commerce,Bachelors,True,False,False,5,13,ML,recruiter_outreach,N/A,Australia,Oceania,Canada,North America,remote,True,6
+CS,PhD,True,False,False,2,21,ML,referral,N/A,Australia,Oceania,Australia,Oceania,in_person,True,4
+Civil Engineering,PhD,True,False,True,0,7,Data Engineering,internship_conversion,N/A,India,Asia,Australia,Oceania,hybrid,True,1
+DS,PhD,True,True,True,0,29,Data Engineering,internship_conversion,N/A,Canada,North America,Canada,North America,in_person,True,6
+Other,Masters,True,False,False,1,17,Data Engineering,referral,N/A,Canada,North America,USA,North America,in_person,True,6
+Arts,Bachelors,True,True,True,0,12,BI,direct_application,wellfound,USA,North America,Egypt,MENA,in_person,True,2
+Other,Masters,True,False,True,3,18,Data Engineering,networking_event,N/A,Germany,Europe,Australia,Oceania,remote,True,10
+Electrical Engineering,Masters,True,True,True,1,24,NLP,internship_conversion,N/A,India,Asia,Brazil,LATAM,in_person,True,6
+DS,Bachelors,False,True,True,2,15,ML,referral,N/A,Canada,North America,Brazil,LATAM,hybrid,True,7
+Mechanical Engineering,PhD,False,True,False,1,7,BI,internship_conversion,N/A,Brazil,LATAM,Egypt,MENA,hybrid,True,11
+Mechanical Engineering,Bachelors,False,True,False,1,12,NLP,referral,N/A,Brazil,LATAM,India,Asia,hybrid,True,1
+DS,Masters,False,False,False,0,13,NLP,referral,N/A,Egypt,MENA,USA,North America,in_person,True,10
+DS,PhD,True,True,False,1,9,NLP,networking_event,N/A,India,Asia,USA,North America,in_person,True,4
+DS,Masters,False,False,False,2,16,Data Engineering,referral,N/A,USA,North America,India,Asia,hybrid,True,1
+Mechanical Engineering,PhD,False,True,True,0,9,ML,recruiter_outreach,N/A,Germany,Europe,Australia,Oceania,remote,True,1
+Arts,Bachelors,False,True,False,2,28,Data Engineering,referral,N/A,Egypt,MENA,Egypt,MENA,remote,True,9
+Civil Engineering,Bachelors,False,True,False,0,29,NLP,direct_application,upwork,Brazil,LATAM,Germany,Europe,hybrid,True,1
+CS,Masters,True,True,True,3,19,ML,internship_conversion,N/A,Brazil,LATAM,Egypt,MENA,remote,True,3
+Mechanical Engineering,PhD,False,False,False,1,11,ML,networking_event,N/A,Canada,North America,USA,North America,in_person,True,2
+Mechanical Engineering,Bachelors,True,True,False,4,28,BI,recruiter_outreach,N/A,Germany,Europe,Canada,North America,hybrid,True,9
+Other,Masters,True,True,False,1,21,ML,referral,N/A,India,Asia,Australia,Oceania,in_person,True,2
+Mechanical Engineering,PhD,False,False,True,2,15,ML,referral,N/A,Egypt,MENA,Canada,North America,in_person,True,4
+DS,PhD,True,False,True,1,11,ML,referral,N/A,Egypt,MENA,India,Asia,remote,True,1
+DS,PhD,False,True,False,6,20,Data Engineering,internship_conversion,N/A,USA,North America,Egypt,MENA,hybrid,True,5
+Mechanical Engineering,PhD,True,False,True,2,21,NLP,direct_application,glassdoor,Canada,North America,Germany,Europe,in_person,True,1
+Electrical Engineering,PhD,False,False,True,2,23,ML,internship_conversion,N/A,India,Asia,Australia,Oceania,remote,True,2
+Arts,PhD,True,True,False,0,9,NLP,internship_conversion,N/A,Australia,Oceania,Germany,Europe,in_person,True,7
+Other,Bachelors,False,True,False,3,29,ML,direct_application,upwork,Australia,Oceania,Egypt,MENA,remote,True,2
+Electrical Engineering,PhD,False,False,True,1,5,ML,internship_conversion,N/A,Egypt,MENA,Brazil,LATAM,remote,True,1
+Commerce,Masters,True,True,False,1,5,Data Engineering,recruiter_outreach,N/A,Germany,Europe,USA,North America,in_person,True,1
+DS,Masters,False,False,False,0,21,ML,recruiter_outreach,N/A,Canada,North America,Canada,North America,hybrid,True,3
+Arts,PhD,True,False,True,5,29,NLP,direct_application,company_website,India,Asia,Australia,Oceania,hybrid,True,4
+Civil Engineering,Masters,False,True,False,3,29,Data Engineering,recruiter_outreach,N/A,India,Asia,Canada,North America,remote,True,4
+Arts,PhD,True,True,True,1,22,BI,networking_event,N/A,Germany,Europe,USA,North America,remote,True,8
+CS,Masters,True,False,False,0,18,Data Engineering,networking_event,N/A,Australia,Oceania,Australia,Oceania,remote,True,6
+Electrical Engineering,Masters,True,True,True,2,17,ML,direct_application,other,India,Asia,Canada,North America,in_person,True,1
+Arts,PhD,True,True,True,2,15,NLP,direct_application,other,India,Asia,USA,North America,hybrid,True,3
+Other,PhD,True,True,True,3,23,ML,networking_event,N/A,USA,North America,Canada,North America,in_person,True,8
+Mechanical Engineering,PhD,True,True,True,4,11,BI,networking_event,N/A,Germany,Europe,USA,North America,hybrid,True,2
+Electrical Engineering,PhD,True,False,True,4,26,NLP,internship_conversion,N/A,USA,North America,Brazil,LATAM,hybrid,True,7
+CS,PhD,True,True,True,0,6,BI,recruiter_outreach,N/A,Brazil,LATAM,Germany,Europe,remote,True,11
+DS,Masters,True,True,False,2,15,NLP,internship_conversion,N/A,USA,North America,Brazil,LATAM,in_person,True,4
+CS,Masters,True,True,False,0,25,NLP,networking_event,N/A,Australia,Oceania,USA,North America,hybrid,True,8
+Mechanical Engineering,Masters,False,False,True,2,6,BI,internship_conversion,N/A,Australia,Oceania,India,Asia,hybrid,True,11
+Arts,Bachelors,True,True,True,6,20,Data Engineering,recruiter_outreach,N/A,Germany,Europe,Egypt,MENA,in_person,True,7
+DS,Bachelors,True,False,False,5,5,NLP,recruiter_outreach,N/A,Germany,Europe,Egypt,MENA,remote,True,8
+Electrical Engineering,Bachelors,False,True,False,0,12,Data Engineering,internship_conversion,N/A,Egypt,MENA,Australia,Oceania,in_person,True,1
+DS,Masters,False,False,True,2,10,ML,networking_event,N/A,Canada,North America,Germany,Europe,remote,True,8
+Civil Engineering,Bachelors,False,False,True,0,21,NLP,recruiter_outreach,N/A,Brazil,LATAM,India,Asia,remote,True,2
+Arts,Masters,True,True,True,2,21,Data Engineering,recruiter_outreach,N/A,India,Asia,Germany,Europe,remote,True,3
